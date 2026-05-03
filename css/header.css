@@ -36,9 +36,10 @@
   line-height: 1.5;
   font-weight: 400;
   letter-spacing: 0.02em;
+  font-style: normal;
 }
-.address .link :hover,
-.address .link :focus {
+.address .link:hover,
+.address .link:focus {
   color: #404bbf;
   text-decoration: none;
   font-style: normal;
