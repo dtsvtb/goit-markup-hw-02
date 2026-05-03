@@ -9,7 +9,7 @@
   line-height: 1.33;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
 }
 .logo-footer .logo-web {
   color: #4d5ae5;
@@ -20,5 +20,5 @@
   font-size: 16px;
   line-height: 1.5;
   font-weight: 400;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }

@@ -6,7 +6,7 @@
   line-height: 1.33;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 3%;
+  letter-spacing: 0.03em;
 }
 .logo-header .logo-web {
   color: #4d5ae5;
@@ -19,26 +19,27 @@
 .nav .link {
   color: #2e2f42;
   text-decoration: none;
-  font-size: 16;
+  font-size: 16px;
   line-height: 1.5;
   font-weight: 500;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
 }
-.nav .link :hover,
-.nav .link :focus {
+.nav .link:hover,
+.nav .link:focus {
   color: #404bbf;
   text-decoration: none;
 }
 .address .link {
   color: #434455;
   text-decoration: none;
-  font-size: 16;
+  font-size: 16px;
   line-height: 1.5;
-  font-weight: 500;
-  letter-spacing: 2%;
+  font-weight: 400;
+  letter-spacing: 0.02em;
 }
 .address .link :hover,
 .address .link :focus {
   color: #404bbf;
   text-decoration: none;
+  font-style: normal;
 }
