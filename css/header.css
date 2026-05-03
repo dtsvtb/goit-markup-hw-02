@@ -1,3 +1,6 @@
+.address {
+  font-style: normal;
+}
 .header .logo-header {
   color: #2e2f42;
   text-decoration: none;
@@ -36,7 +39,6 @@
   line-height: 1.5;
   font-weight: 400;
   letter-spacing: 0.02em;
-  font-style: normal;
 }
 .address .link:hover,
 .address .link:focus {
